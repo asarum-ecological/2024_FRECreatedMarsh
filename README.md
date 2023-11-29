@@ -10,5 +10,5 @@ The repo contains [raw field data](https://github.com/dstewart86/FRE_CreatedTida
 
 Should you have any questions, please feel free to reach out to research lead [Daniel Stewart](mailto:daniel.stewart@asarum.org).
 
-![Image of marsh](https://github.com/dstewart86/FRE_CreatedTidalMarshes_2022/blob/main/IMG_4764.jpg)
+![Image of marsh](README_PHOTO.jpg)
 
